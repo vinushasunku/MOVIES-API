@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\Movies.Business.Interfaces\\MOVIES.Business.Interfaces.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\Movies.Business.Interfaces\\MOVIES.Business.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\Movies.Business.Interfaces\\MOVIES.Business.Interfaces.csproj",
+        "projectName": "MOVIES.Business.Interfaces",
+        "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\Movies.Business.Interfaces\\MOVIES.Business.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\vinus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\Movies.Business.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\MOVIES.DataServices.csproj": {
+                "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\MOVIES.DataServices.csproj"
+              },
+              "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj": {
+                "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\MOVIES.DataServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\MOVIES.DataServices.csproj",
+        "projectName": "MOVIES.DataServices",
+        "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\MOVIES.DataServices.csproj",
+        "packagesPath": "C:\\Users\\vinus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.DataServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj": {
+                "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj",
+        "projectName": "MOVIES.Entities",
+        "projectPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\MOVIES.Entities.csproj",
+        "packagesPath": "C:\\Users\\vinus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinus\\Desktop\\Movies\\MOVIES\\MOVIES.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

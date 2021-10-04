@@ -1,0 +1,16 @@
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.Entities.dll
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.AssemblyInfoInputs.cache
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.AssemblyInfo.cs
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.DataServices.deps.json
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.DataServices.runtimeconfig.json
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.DataServices.runtimeconfig.dev.json
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.DataServices.dll
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.DataServices.pdb
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\bin\Debug\netcoreapp3.1\MOVIES.Entities.pdb
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.csproj.AssemblyReference.cache
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.csproj.CopyComplete
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.dll
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.pdb
+C:\Users\vinus\Desktop\Movies\MOVIES\MOVIES.DataServices\obj\Debug\netcoreapp3.1\MOVIES.DataServices.genruntimeconfig.cache
