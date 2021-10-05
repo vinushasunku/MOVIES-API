@@ -11,6 +11,6 @@ namespace MOVIES.Business.Interfaces
         List<Movies> GetMoviesListByRating(string type);
         List<Movies> GetMoviesListByHighestRating(string type, string name);
 
-        Movies AddRating(Movies input);
+        Movies AddRating(MoviesRequest input);
     }
 }

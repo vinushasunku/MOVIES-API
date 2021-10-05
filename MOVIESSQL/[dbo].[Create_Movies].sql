@@ -30,16 +30,15 @@
 		ID INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
 		MovieID INT NOT NULL,
 		UserId INT NOT NULL,
-		Rating INT NULL,
+		Rating FLOAT NULL,
 		Comments VARCHAR(1000) NULL,
 		
 	 )
 
    END
 
- --Alter table Movies 
- -- ADD AvgerageRating NUMERIC(10,1)
- --drop table WatchHistory
+
+
   
  GO
 

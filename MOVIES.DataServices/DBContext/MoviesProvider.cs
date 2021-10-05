@@ -58,7 +58,7 @@ namespace MOVIES.DataServices.DBContext
                 throw ex;
             }
         }
-        public Movies add(Movies input)
+        public Movies add(MoviesRequest input)
         {
             try
             {

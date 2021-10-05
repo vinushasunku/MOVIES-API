@@ -12,6 +12,6 @@ namespace MOVIES.DataServices.DBContext
 
         List<Movies> getHighestRating(string type,string name);
 
-        Movies add(Movies input);
+        Movies add(MoviesRequest input);
     }
 }

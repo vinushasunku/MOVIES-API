@@ -14,8 +14,6 @@ namespace MOVIES.Business
     {
 
         IMoviesProvider _moviesProvider;
-        
-        
 
         public MoviesBusiness(IMoviesProvider moviesProvider)
         {
@@ -69,7 +67,7 @@ namespace MOVIES.Business
             }
             return result;
         }
-        public Movies AddRating(Movies input)
+        public Movies AddRating(MoviesRequest input)
         {
             Movies result = null;
             try

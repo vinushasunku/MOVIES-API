@@ -6,7 +6,7 @@ GO
 CREATE PROCEDURE [dbo].[AddorUpdateMovies]
   @UserID INT,
   @Title VARCHAR(255),
-  @Rating INT
+  @Rating float
 
 AS
 BEGIN
@@ -26,7 +26,7 @@ BEGIN
 	   VALUES (@MovieID,@UserID,@Rating)
 	END
 
-	 SELECT m.*,wh.Rating,wh.UserId FROM Movies m
+	 SELECT m.MovieID,m.Title,m.YearReleased,m.GenreType,wh.Rating FROM Movies m
      LEFT JOIN WatchHistory wh on wh.MovieID=m.MovieID
 	 where wh.UserId=@UserID
 	--select * from Movies
@@ -37,7 +37,4 @@ END
 GO
 
 
---select * from  [dbo].[Movies]
---select * from [dbo].UserInfo
---select * from dbo.WatchHistory
 
